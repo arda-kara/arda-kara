@@ -13,8 +13,8 @@ I'm a 3rd-year Electrical & Electronics Engineering student at Bilkent Universit
 
 ### 🔭 What I’m Working On
 - 🤖 **Task and Motion Planning for Physical Manipulation** using the RAI framework (LiRA Lab, Bilkent University)
-- 📈 **AI-Augmented Algorithmic Trading Bot** leveraging RL, NLP-based sentiment analysis, and market structure
-- 🧠 **Traffic Optimization** through Reinforcement Learning, Control Theory, and Game Theory
+- 📈 **AI-Augmented Algorithmic Trading Bot** leveraging RL, NLP-based sentiment analysis, and market structure to create AI powered finance assistants
+- 🧠 **Research on Traffic Optimization** through Reinforcement Learning, Control Theory, and Game Theory techniques
 - 📄 Collaborating on multiple **academic research papers** in robotics and intelligent systems (in progress)
 - 🧪 Preparing for a **summer research internship at Yale University**, focusing on physics-informed neural networks for optimization
 
@@ -51,25 +51,10 @@ I'm a 3rd-year Electrical & Electronics Engineering student at Bilkent Universit
 
 ---
 
-### 🧠 Currently Learning
-- Reinforcement Learning (Value Iteration, Policy Gradient, Actor-Critic)
-- Advanced Optimization & Game-Theoretic Algorithms
-- Robotic Library (RAI) and Physical Planning
-- Japanese (ひらがな and カタカナ), German (B1), and Turkish (native)
-
----
-
-### 🎭 Fun Facts
-- Cast as JD in **Heathers: The Musical**, invited to perform by City Hall
-- Founded the Bilkent Karaoke Club 🎤
-- I love philosophy, camping, and mastering my body through functional fitness
-
----
-
 ### 📬 Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ArdaKara-blue?logo=linkedin)](https://linkedin.com/in/arda-kara)
-[![Mail](https://img.shields.io/badge/Email-Click%20Here-red?logo=gmail)](mailto:yourmail@example.com)
-[![Personal Website](https://img.shields.io/badge/Portfolio-Coming%20Soon-yellowgreen)](#)
+[![Mail](https://img.shields.io/badge/Email-Click%20Here-red?logo=gmail)](mailto:ardakara1881@hotmail.com)
+[![Personal Website](https://img.shields.io/badge/Portfolio-Coming%20Soon-yellowgreen)](https://arda-kara.github.io/)
 
 ---
 
