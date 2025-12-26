@@ -1,68 +1,90 @@
-<h1 align="center">Hi there, I'm Arda Kara 👋</h1>
+<h1 align="center">Hi, I'm Arda Kara 👋</h1>
+
 <p align="center">
-  🚀 Electrical & Electronics Engineering Student | 🤖 Robotics & AI Researcher | 🎭 Performer | 🧠 Lifelong Learner
+  ⚙️ Electrical & Electronics Engineer | 🧠 Distributed AI & Quantum Systems | 🚦 Control, RL & Networks
 </p>
 
 ---
 
 ### 🧩 About Me
 
-I'm a 3rd-year Electrical & Electronics Engineering student at Bilkent University, passionate about designing intelligent physical agents and pushing the boundaries of learning algorithms. My long-term goal is to build complete humanoid robots—both physically and cognitively—by combining control systems, learning theory, and real-world robotics.
+I design **intelligent large-scale systems that actually run in the real world**—from distributed quantum compilers to multi-agent traffic control, federated learning infrastructures, and low-latency trading systems.
+
+Currently, I work at **Yale University SmartNets Lab**, co-developing one of the world’s first **fully concurrent Distributed Quantum Compiler architectures**, alongside scalable federated / split-learning systems for physics-informed models under severe memory constraints.
+
+I care about **system design, control, infrastructure, and decisional intelligence** far more than toy demos or incremental ML projects. My work sits at the intersection of:
+- Quantum networks & distributed compilers  
+- Multi-agent control & game-theoretic systems  
+- Federated/split learning & large-scale ML systems  
+- Low-latency trading infrastructure and decision pipelines  
 
 ---
 
 ### 🔭 What I’m Working On
-- 🤖 **Task and Motion Planning for Physical Manipulation** using the RAI framework (LiRA Lab, Bilkent University)
-- 📈 **AI-Augmented Algorithmic Trading Bot** leveraging RL, NLP-based sentiment analysis, and market structure to create AI powered finance assistants
-- 🧠 **Research on Traffic Optimization** through Reinforcement Learning, Control Theory, and Game Theory techniques
-- 📄 Collaborating on multiple **academic research papers** in robotics and intelligent systems (in progress)
-- 🧪 Preparing for a **summer research internship at Yale University**, focusing on physics-informed neural networks for optimization
+
+- 🧬 **Distributed Quantum Compiler (DQC)**  
+  Non-monolithic, asynchronous compiler integrating qubit mapping, routing, and entanglement resource allocation across multi-QPU networks.
+
+- 🌍 **Federated & Split Learning for Physics-Informed Models**  
+  Distributed seismic inversion learning with hybrid federation and split strategies under extreme device constraints.
+
+- 🚦 **Stabilizing Human Traffic Without Autonomous Vehicles**  
+  Demonstrating decentralized human-behavior controllers suppress phantom jams (submitted to IFAC 2026).
+
+- 💸 **Helios: Distributed Trading Infrastructure**  
+  Modular multi-agent trading backend + ultra-low-latency event-driven engine.
+
+- 🤖 **Decentralized Robot Swarms & Auction-Based Multi-Robot Planning**  
+  Federated policy learning + VCG allocation schemes.
 
 ---
 
 ### 💡 Research Interests
-- Reinforcement Learning & Control Theory
-- Multi-Agent Systems & Game Theory
-- Robotics, TAMP, and Motion Planning
-- Neuroengineering & Cognitive Architectures
-- Autonomous Vehicles & Optimization
+
+- Distributed AI Systems & Control  
+- Reinforcement Learning & Stochastic Optimization  
+- Multi-Agent Networks, Traffic & Game Theory  
+- Quantum Computing Infrastructure & Compilers  
+- Low-Latency & High-Performance Systems  
 
 ---
 
 ### 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=Mathworks)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-FFB900?style=flat)
-![LTSpice](https://img.shields.io/badge/LTSpice-blue?style=flat)
-![Proteus](https://img.shields.io/badge/Proteus-lightgrey?style=flat)
+
+**Programming**
+- Python • C/C++ • VHDL • MATLAB • Bash • SQL • JavaScript
+
+**Systems & Infrastructure**
+- Linux • Docker • Kubernetes • FastAPI • gRPC • AsyncIO  
+- Ray • Redis • CI/CD • Azure
+
+**Machine Learning**
+- PyTorch • TensorFlow • RL (PPO, Decentralized RL)  
+- Federated Learning • Split Learning • Optimization
+
+**Hardware & Compilers**
+- Quantum Compiler Design  
+- FPGA (Vivado, AXI4, DMA, MicroBlaze)  
+- High-speed communication stacks
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardakara&show_icons=true&theme=tokyonight" alt="Arda's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ardakara&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ardakara&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ardakara&theme=tokyonight" />
 </p>
+
 
 ---
 
 ### 📬 Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ArdaKara-blue?logo=linkedin)](https://linkedin.com/in/arda-kara)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ArdaKara-blue?logo=linkedin)](https://linkedin.com/in/arda-kara0)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/arda-kara)
 [![Mail](https://img.shields.io/badge/Email-Click%20Here-red?logo=gmail)](mailto:ardakara1881@hotmail.com)
-[![Personal Website](https://img.shields.io/badge/Portfolio-Coming%20Soon-yellowgreen)](https://arda-kara.github.io/)
 
 ---
 
-### 🏆 Trophies & Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ardakara&theme=darkhub&margin-w=15" />
-</p>
-
----
-
-_“Be the strongest version of yourself—mentally, physically, and morally.”_
+_“Build systems that matter — precise, resilient, and intellectually honest.”_
