@@ -71,9 +71,9 @@ I care about **system design, control, infrastructure, and decisional intelligen
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardakara&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arda-kara&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=ardakara&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=arda-kara&theme=tokyonight" />
 </p>
 
 
